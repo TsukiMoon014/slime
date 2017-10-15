@@ -1,0 +1,8 @@
+
+src/vendor/*
+
+src/composer\.json
+
+src/composer\.lock
+
+src/composer\.phar
